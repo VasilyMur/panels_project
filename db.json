@@ -1,0 +1,35 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "title": "Transfer",
+      "category": "network",
+      "intro": "This will provide network data support and reporting",
+      "details": [
+          "Control data flow",
+          "Enable notifications on flow changes",
+          "Support for data network"
+      ]
+  },
+  {
+      "id": 2,
+      "title": "Event Alerts",
+      "category": "information",
+      "intro": "Provides support for event alerts",
+      "details": [
+          "Add subscribing for events and alerts",
+          "Enable sharing of information on QOS"
+      ]
+  },
+  {
+      "id": 3,
+      "title": "Data Controller",
+      "category": "iot",
+      "intro": "Provide communication of data between IOT devices",
+      "details": [
+          "Enables data transmission between devices",
+          "Reduces complexity of information"
+      ]
+  }
+  ]
+}

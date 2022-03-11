@@ -1,0 +1,24 @@
+
+.panelCard {
+  color: #2E2E2E;
+  margin-bottom: 20px;
+  overflow: hidden;
+  background: #fff;
+  padding: 10px;
+  border-radius: 4px;
+  max-width: 500px;
+  box-shadow: rgba(0, 0, 0, 0.043) 0px 0px 5px 3px;
+}
+.panelCard h3 {
+  margin-top: 0;
+  border-bottom: 2px solid #ffc600;
+  display: inline-block;
+}
+.panelCard p {
+  margin: 0 0 20px;
+}
+.singlePanel {
+  max-width: 600px;
+}
+
+
